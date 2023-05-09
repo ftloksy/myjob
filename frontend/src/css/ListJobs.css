@@ -1,0 +1,15 @@
+.nontargetjob {
+  color: #666666;
+}
+
+.targetjob {
+  color: white;
+}
+
+.selectedjob {
+  background-color: yellow;
+}
+
+.unselectjob {
+  background-color: #A00020;
+}
