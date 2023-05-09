@@ -1,5 +1,5 @@
 {
-  "name": "myjob",
+  "name": "myjob -- fronted",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
